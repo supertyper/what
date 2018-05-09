@@ -14,10 +14,5 @@ asfda
 能看到我么
 我是new1
 我是nnn
-dsadsada
-<<<<<<< HEAD
-改2
-=======
-改1
->>>>>>> new
-Creating a new branch is quick & simple.
+dsadsad
+Creating a new branch is quick and simple.
