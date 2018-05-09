@@ -17,4 +17,8 @@ asfda
 dsadsad
 Creating a new branch is quick and simple.
 dasdsa
+<<<<<<< HEAD
 nnn
+=======
+dev
+>>>>>>> dev
