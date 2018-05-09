@@ -15,4 +15,8 @@ asfda
 我是new1
 我是nnn
 dsadsada
+<<<<<<< HEAD
 改2
+=======
+改1
+>>>>>>> new
