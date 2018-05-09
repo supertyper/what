@@ -20,3 +20,4 @@ dsadsada
 =======
 改1
 >>>>>>> new
+Creating a new branch is quick & simple.
